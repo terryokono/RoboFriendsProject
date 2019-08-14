@@ -1,3 +1,4 @@
+Created by Udoabasi Terry Okono while learning to program with React.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
